@@ -1,0 +1,4 @@
+name: NodeNetBungee
+version: '${project.version}'
+main: node.net.bungeecord.Bungeecord
+description: NodeNet Bungeecord server plugin
